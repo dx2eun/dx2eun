@@ -1,4 +1,4 @@
-# DaeEun Kim — @dx2eun
+# DaeEun Kim
 
 Back-End Developer at Gwangju Software Meister High School. Member of the-moment, a 40-member school software development team. I refine code readability, system performance, and fine details to deliver a seamless user experience.
 
